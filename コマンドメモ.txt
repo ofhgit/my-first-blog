@@ -1,5 +1,5 @@
 仮想環境の起動
-cd djangogerls
+cd djangogirls
 myvenv\Scripts\activate
 
 
